@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TikitaPeralta
-- 👀 I’m interested in Python, Physics and dancing!
-- 🌱 I’m currently learning Python, html and css
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating small businesses and physical simulations!
+- 🌱 I’m currently learning Python, html and css, and js
+- 💞️ I’m looking to collaborate on opensurce
 - 📫 How to reach me https://www.linkedin.com/in/tikita-peralta-3bbb39233/
 
 <!---
