@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TikitaPeralta
 - 👀 I’m interested in creating small businesses and physical simulations!
-- 🌱 I’m currently learning Python, JS, and cybersecurity with HackTheBox
+- 🌱 I’m currently learning Python, JS, cybersecurity with HackTheBox and LLMs with activeloop
 - 💞️ I’m looking to collaborate on opensource and robotics
 - 📫 How to reach me https://www.linkedin.com/in/tikita-peralta-3bbb39233/
 
