@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TikitaTech
+- 👋 Hi, I’m @TikitaTech building http://www.finesseyourfont.com/
 - 👀 I’m interested in solopreneurship and indiehacking!
 - 🌱 I’m currently learning Python, JS, React/bun/astro, and growth hacking
 - 💞️ I’m looking to collaborate on business ideas
