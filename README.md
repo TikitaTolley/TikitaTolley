@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TikitaTech building http://www.finesseyourfont.com/
-- 👀 I’m interested in solopreneurship and indiehacking!
-- 🌱 I’m currently learning Python, JS, React/bun/astro, and growth hacking
+- 👀 I’m interested in contracting and indiehacking!
+- 🌱 I’m currently learning Python, JS/TS, React/bun/astro, and growth hacking
 - 💞️ Feel free to contact me for web scraping projects - my prices are competitive and open communication is my priority!
 - 📫 How to reach me https://linktr.ee/TikitaTech
 
