@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TikitaTech building http://www.finesseyourfont.com/
+- 👋 Hi, I’m @TikitaTech building a web scraping business at https://scrapeshack.com/
 - 👀 I’m interested in contracting and indiehacking!
 - 🌱 I’m currently learning Python, JS/TS, React/bun/astro, and growth hacking
 - 💞️ Feel free to contact me for web scraping projects - my prices are competitive and open communication is my priority!
