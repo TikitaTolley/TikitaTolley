@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TikitaTech building a web scraping business at https://scrapeshack.com/
-- 👀 I’m interested in contracting and indiehacking!
-- 🌱 I’m currently learning Python, JS/TS, React/bun/astro, and growth hacking
-- 💞️ Feel free to contact me for web scraping projects - my prices are competitive and open communication is my priority!
-- 📫 How to reach me https://linktr.ee/TikitaTech
+# Hi! I'm TikitaTech - an entrepreneur...
+I'm sharing my indie hacker journey as I build webapps and sharing my contracting journey with web scraping services! I also create tech-related content for [YouTube](https://www.youtube.com/@TikitaTech)! Whether that's webapp demos or travel experiences.
 
-<!---
-TikitaPeralta/TikitaPeralta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+- Realty Compare => currently building in public (A tool to find your ideal property by comparing real estate listings in your desired area)
+- [Scrape Shack](https://scrapeshack.com) => web scraping services
+- [Portfolio](https://tikitatech.xyz)
