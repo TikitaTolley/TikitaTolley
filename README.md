@@ -7,4 +7,4 @@ I'm sharing my indie hacker journey as I build webapps and sharing my contractin
 - [Portfolio](https://tikitatech.xyz)
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwindcss,supabase,arch,vite,bun,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwindcss,supabase,arch,vite,bun,docker,figma,neovim)](https://skillicons.dev)
