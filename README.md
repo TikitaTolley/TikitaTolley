@@ -1,5 +1,5 @@
 # Hi! I'm TikitaTech - an entrepreneur...
-I'm sharing my indie hacker journey as I build webapps and sharing my contracting journey with web scraping services! I also create tech-related content for [YouTube](https://www.youtube.com/@TikitaTech)! Whether that's webapp demos or travel experiences.
+I'm sharing my indie hacker journey as I build webapps and sharing my contracting journey with web scraping services! I also create tech-related content for [YouTube](https://www.youtube.com/@TikitaTech), whether that's webapp demos or travel experiences.
 
 ## Projects
 - Realty Compare => currently building in public (A tool to find your ideal property by comparing real estate listings in your desired area)
