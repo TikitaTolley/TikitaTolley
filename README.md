@@ -8,4 +8,4 @@ I'm sharing my indie hacker journey as I build webapps and sharing my contractin
 - Web Dev Services, example: [PerAnder Artworks](peranderartworks.co.uk) => recent updates to site - new reviews section
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwindcss,supabase,linux,arch,vite,bun,docker,kubernetes,figma,neovim,regex,p5js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwindcss,supabase,linux,arch,vite,bun,docker,kubernetes,figma,neovim,regex,express)](https://skillicons.dev)
