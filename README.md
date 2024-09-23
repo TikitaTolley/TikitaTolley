@@ -1,9 +1,11 @@
 # Hi! I'm TikitaTech - Software Contractor
-I'm sharing my indie hacker journey as I build webapps and sharing my contracting journey with web scraping services! I also create tech-related content for [YouTube](https://www.youtube.com/@TikitaTech), whether that's webapp demos or travel experiences, along with AI Music/Art on my [ReVamped with AI YouTube Channel](https://www.youtube.com/channel/UCfd7HiBsnVJi0_0PqsusDPA).
+I'm the co-founder of [Daeda Technologies LTD](https://daeda.tech) - offering software services and tools. 
+I'm sharing my indie hacker journey as I build webapps and sharing my contracting journey with web scraping services! 
 
 ## Projects
+- [Stardew Valley GPT](https://chatgpt.com/g/g-sZh2oiAag-stardew-valley-wiki-chatbot) => you can try this with a free openai account!
 - [Scrape Shack](https://scrapeshack.com) => web scraping services
-- [Portfolio](https://tikitatech.xyz)
+- [Portfolio](https://tikitatech.xyz) => all projects!
 - Web Dev Services, current client: [PerAnder Artworks](peranderartworks.co.uk)
 
 ## Stack
