@@ -10,3 +10,5 @@ I'm the co-founder of [Daeda Technologies LTD](https://daeda.tech) - offering so
 
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,bun,react,tailwindcss,supabase,linux,arch,vite,docker,kubernetes,figma,neovim,regex)](https://skillicons.dev)
+
+[![LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
