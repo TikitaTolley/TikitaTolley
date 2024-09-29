@@ -11,4 +11,5 @@ I'm the co-founder of [Daeda Technologies LTD](https://daeda.tech) - offering so
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,bun,react,tailwindcss,supabase,linux,arch,vite,docker,kubernetes,figma,neovim,regex)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tikita-tolley-3bbb39233/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TikitaTech)
+
