@@ -1,18 +1,37 @@
-#### Hi! 
-I'm [TikitaTech](https://tikitatech.xyz), a software engineer from England.
+# Hi there! 👋
+I'm **Tikita Tolley** – a developer on a mission to simplify e-commerce. I'm based in the England but currently spending a year in Thailand!
 
-- I'm currently building Shopify Apps and contributing to the Shopify Community Forum.
-  - Summarised into a neat little page: [My Shopify Page](https://daeda.tech/shopify)
+I’m passionate about building Shopify apps that make online stores easier to manage and more engaging for customers. 
 
-- I'm the co-founder of [Daeda Technologies LTD](https://daeda.tech) - `offering tools in Hubspot and Shopify`
+As co-founder of [Daeda Technologies LTD](https://daeda.tech), I create tools that help businesses thrive in the digital landscape of HubSpot & Shopify.
 
-## Projects
-- [Stardew Valley GPT](https://chatgpt.com/g/g-sZh2oiAag-stardew-valley-wiki-chatbot) => you can try this with a free openai account!
-- [Scrape Shack](https://scrapeshack.com) => web scraping
-- E-commerce Client: [PerAnder Artworks](peranderartworks.co.uk)
+## 🌟 Featured Project: Wishlist Buddy (Coming Soon!) 
+**Wishlist Buddy** is launching soon on the Shopify App Store! This upcoming app will give Shopify store owners a user-friendly way for customers to save their favorite products. Stay tuned for a simple solution to enhance engagement and keep customers coming back.  
 
-## Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,bun,react,tailwindcss,supabase,linux,arch,vite,docker,kubernetes,figma,neovim,regex)](https://skillicons.dev)
+**Tech Stack:** React, TypeScript, Node.js, Shopify API, Liquid, Remix, Liquid.js
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tikita-tolley-3bbb39233/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TikitaTech)
 
+## 📂 Other Projects
+- [Stardew Valley GPT](https://chatgpt.com/g/g-sZh2oiAag-stardew-valley-wiki-chatbot) - 200 chats and counting! A fan-driven AI project designed for game enthusiasts.
+- E-commerce Client: [PerAnder Artworks](https://peranderartworks.co.uk) - Custom site for showcasing artwork with smooth shopping functionality.
+- More projects to see at [My Portfolio](https://tikitatech.xyz)
+
+
+## 📝 My Shopify Hub
+Visit [My Shopify Hub](https://daeda.tech/shopify) for my latest blog posts, contributions, and updates in the Shopify community!
+
+
+## 🛠 My Tech Stack
+
+| **Frontend**                 | **Backend**                   | **Tools**                      | **Workflow & OS**     |
+|------------------------------|-------------------------------|--------------------------------|------------------------|
+|[![Frontend](https://skillicons.dev/icons?i=react,tailwindcss,astro)](https://skillicons.dev)|[![Backend](https://skillicons.dev/icons?i=nodejs,typescript,bun,py)](https://skillicons.dev)|[![Tools](https://skillicons.dev/icons?i=supabase,docker,kubernetes,figma,obsidian,remix,regex)](https://skillicons.dev)|[![Setup](https://skillicons.dev/icons?i=linux,neovim,arch)](https://skillicons.dev)
+
+
+## Let's Connect 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tikita-tolley-3bbb39233/)  
+  *For professional insights, app development updates, and Shopify tips.*
+  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://threads.net/TikitaTolley)  
+  *For casual thoughts, behind-the-scenes, and e-commerce insights.*
