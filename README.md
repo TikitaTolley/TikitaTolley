@@ -33,5 +33,5 @@ Visit [My Shopify Hub](https://daeda.tech/shopify) for my latest blog posts, con
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tikita-tolley-3bbb39233/)  
   *For professional insights, app development updates, and Shopify tips.*
   
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://threads.net/TikitaTolley)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.threads.net/@tikitatech)  
   *For casual thoughts, behind-the-scenes, and e-commerce insights.*
