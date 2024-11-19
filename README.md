@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm **Tikita Tolley** – a developer on a mission to simplify e-commerce. I'm based in the England but currently spending a year in Thailand!
+I'm **Tikita Tolley** – a developer on a mission to simplify e-commerce. I'm based in England but currently spending a year in Thailand!
 
 I’m passionate about building Shopify apps that make online stores easier to manage and more engaging for customers. 
 
