@@ -5,8 +5,8 @@ I’m passionate about building Shopify apps that make online stores easier to m
 
 As co-founder of [Daeda Technologies LTD](https://daeda.tech), I create tools that help businesses thrive in the digital landscape of HubSpot & Shopify.
 
-## 🌟 Featured Project: Daeda Wishlist (Coming Soon!) 
-**Daeda Wishlist** is launching soon on the Shopify App Store! This upcoming app will give Shopify store owners a user-friendly way for customers to save their favorite products. Stay tuned for a simple solution to enhance engagement and keep customers coming back.  
+## 🌟 Featured Project: Daeda Wishlist
+[**Daeda Wishlist**](https://apps.shopify.com/daeda-wishlist) is launching soon on the Shopify App Store! This app will give Shopify store owners a user-friendly way for customers to save their favorite products. Stay tuned for a simple solution to enhance engagement and keep customers coming back.  
 
 **Tech Stack:** React, TypeScript, Node.js, Shopify API, Liquid, Remix, Liquid.js
 
