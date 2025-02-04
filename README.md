@@ -6,13 +6,13 @@ I’m passionate about building Shopify apps that make online stores easier to m
 As co-founder of [Daeda Technologies LTD](https://daeda.tech), I create tools that help businesses thrive in the digital landscape of HubSpot & Shopify.
 
 ## 🌟 Featured Project: Daeda Wishlist
-[**Daeda Wishlist**](https://apps.shopify.com/daeda-wishlist) is launching soon on the Shopify App Store! This app will give Shopify store owners a user-friendly way for customers to save their favorite products. Stay tuned for a simple solution to enhance engagement and keep customers coming back.  
+[**Daeda Wishlist**](https://apps.shopify.com/daeda-wishlist) is now on the Shopify App Marketplace! This app will give Shopify store owners a user-friendly way for customers to save their favorite products. A simple solution to enhance engagement and keep customers coming back.  
 
 **Tech Stack:** React, TypeScript, Node.js, Shopify API, Liquid, Remix, Liquid.js
 
 
 ## 📂 Other Projects
-- [Stardew Valley GPT](https://chatgpt.com/g/g-sZh2oiAag-stardew-valley-wiki-chatbot) - 500 chats and counting! A fan-driven AI project designed for game enthusiasts.
+- [Stardew Valley GPT](https://chatgpt.com/g/g-sZh2oiAag-stardew-valley-wiki-chatbot) - 1K chats and counting! A fan-driven AI project designed for game enthusiasts.
 - E-commerce Client: [PerAnder Artworks](https://peranderartworks.co.uk) - Custom site for showcasing artwork with smooth shopping functionality.
 - More projects to see at [My Portfolio](https://tikitatech.xyz)
 
