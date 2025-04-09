@@ -1,37 +1,45 @@
-# Hi there! 👋
-I'm **Tikita Tolley** – a developer on a mission to simplify e-commerce. I'm based in England but currently spending a year in Thailand!
+# Hi there! 👋  
+I'm **Tikita Tolley** 🤖 – a developer crafting practical tools!
+Currently building cool stuff from Chiang Mai, Thailand 🇹🇭  
 
-I’m passionate about building Shopify apps that make online stores easier to manage and more engaging for customers. 
+From AI assistants to Shopify apps, I make tools that *solve real problems without all the technical jargon*.  
 
-As co-founder of [Daeda Technologies LTD](https://daeda.tech), I create tools that help businesses thrive in the digital landscape of HubSpot & Shopify.
+Co-founder of [Daeda Technologies PTE. LTD.](https://daeda.tech) where we help businesses navigate the digital world through smart, simple software.
 
-## 🌟 Featured Project: Daeda Wishlist
-[**Daeda Wishlist**](https://apps.shopify.com/daeda-wishlist) is now on the Shopify App Marketplace! This app will give Shopify store owners a user-friendly way for customers to save their favorite products. A simple solution to enhance engagement and keep customers coming back.  
+---
 
-**Tech Stack:** React, TypeScript, Node.js, Shopify API, Liquid, Remix, Liquid.js
+## 🧪 Tikita's Laboratory – AI Tools
+
+These assistants were built to tackle specific real-world challenges – and make life easier in the process.
+
+| Project | What it Does | Link |
+|---------|-------------|------|
+| Recipe Rummage | 🍳 Discover delicious dishes hiding in your kitchen - no grocery run required! | [Try it](https://chatgpt.com/g/g-67e10ac985588191b3f0c427e5b57919-recipe-rummage) |
+| Stardew Valley Wiki Chatbot | 🌱 Ask any questions about the Stardew Valley game! (1K+ conversations) | Coming back soon! |
+| Quacksheet Financial Advisor | 🦆 Sharp, practical financial advice - with a quirky duck twist. | [Demo](https://www.linkedin.com/posts/tikita-tolley-3bbb39233_customgpt-aitools-gpt-activity-7312413428285919232-gTvO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpd5f8BgULeY2TQ0j-sNEyL7q-gFOtAusQ) |
+| Learning Roadmap | 🗺️ Your personalized blueprint for mastering any skill, step by step. | [Try it](https://chatgpt.com/g/g-67eb6e1d37fc81918dd5f21530a297c3-learning-roadmap) |
+| Page Insights GPT | 🧙‍♀️ Transform Technical Metrics into Marketing Magic. | [Demo](https://www.linkedin.com/posts/tikita-tolley-3bbb39233_marketingtools-siteperformance-customgpt-activity-7315316107450474496-RSkH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpd5f8BgULeY2TQ0j-sNEyL7q-gFOtAusQ) |
+
+---
+
+## 🛍 Shopify Apps
+
+Simple, powerful tools for Shopify stores. Built to *just work* – no fluff, no fuss.
+
+| Project                             | What it Does                                                                                   | Link         |
+|-------------------------------------|------------------------------------------------------------------------------------------------|--------------|
+| ❤️ [**Daeda Wishlist**](https://apps.shopify.com/daeda-wishlist)   | Let customers save favorites. Free. Klaviyo-ready.                                               | Visit        |
+| 📊 Daeda Sales Tracker              | Store stats delivered to Google Sheets – no dashboards, no exports. Wake up to fresh numbers!  | Coming soon  |
 
 
-## 📂 Other Projects
-- [Stardew Valley GPT](https://chatgpt.com/g/g-sZh2oiAag-stardew-valley-wiki-chatbot) - 1K chats and counting! A fan-driven AI project designed for game enthusiasts.
-- E-commerce Client: [PerAnder Artworks](https://peranderartworks.co.uk) - Custom site for showcasing artwork with smooth shopping functionality.
-- More projects to see at [My Portfolio](https://tikitatech.xyz)
-
-
-## 📝 My Shopify Hub
-Visit [My Shopify Hub](https://daeda.tech/shopify) for my latest blog posts, contributions, and updates in the Shopify community!
-
-
-## 🛠 My Tech Stack
+## 🛠 Tech Stack
 
 | **Frontend**                 | **Backend**                   | **Tools**                      | **Workflow & OS**     |
 |------------------------------|-------------------------------|--------------------------------|------------------------|
-|[![Frontend](https://skillicons.dev/icons?i=react,tailwindcss,astro)](https://skillicons.dev)|[![Backend](https://skillicons.dev/icons?i=nodejs,typescript,bun,py)](https://skillicons.dev)|[![Tools](https://skillicons.dev/icons?i=supabase,docker,kubernetes,figma,obsidian,remix,regex)](https://skillicons.dev)|[![Setup](https://skillicons.dev/icons?i=linux,neovim,arch)](https://skillicons.dev)
+|[![Frontend](https://skillicons.dev/icons?i=react,tailwindcss,astro)](https://skillicons.dev)|[![Backend](https://skillicons.dev/icons?i=nodejs,typescript,bun,py)](https://skillicons.dev)|[![Tools](https://skillicons.dev/icons?i=supabase,docker,kubernetes,figma,obsidian,remix,regex)](https://skillicons.dev)|[![Setup](https://skillicons.dev/icons?i=linux,neovim,arch)](https://skillicons.dev)|
 
+---
 
-## Let's Connect 🌐
+## 🔗 Explore More
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tikita-tolley-3bbb39233/)  
-  *For professional insights, app development updates, and Shopify tips.*
-  
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.threads.net/@tikitatech)  
-  *For casual thoughts, behind-the-scenes, and e-commerce insights.*
+- 🧭 [My Portfolio](https://tikitatech.xyz) – More projects, more experiments.
