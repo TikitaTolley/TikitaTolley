@@ -28,7 +28,7 @@ Simple, powerful tools for Shopify stores. Built to *just work* – no fluff, no
 
 | Project                             | What it Does                                                                                   | Link         |
 |-------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| ❤️ [**Daeda Wishlist**](https://apps.shopify.com/daeda-wishlist)   | Let customers save favorites. Free. Klaviyo-ready.                                               | Visit        |
+| ❤️ **Daeda Wishlist**   | Let customers save favorites. Free. Klaviyo-ready.                                               | [Visit](https://apps.shopify.com/daeda-wishlist) |
 | 📊 Daeda Sales Tracker              | Store stats delivered to Google Sheets – no dashboards, no exports. Wake up to fresh numbers!  | Coming soon  |
 
 
