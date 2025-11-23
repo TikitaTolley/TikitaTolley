@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm **Tikita Tolley** – I craft fun hardware projects for my youtube channel and build a few apps here and there; atm I'm travelling around Asia, currently in Malaysia.
+I'm **Tikita Tolley** – I build a few apps here and there; atm I'm travelling around Asia, currently in Malaysia.
 
 I mainly build GPTs, HubSpot and Shopify apps, the aim being to *solve real problems without all the technical jargon*. 
 
