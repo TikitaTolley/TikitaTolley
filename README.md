@@ -33,7 +33,7 @@ You can see more of my projects and experiments on [my portfolio site](https://t
 
 **Shopify Wishlist App** – Widgets on store, customers can save their favourites for later, [Daeda Wishlist marketplace](https://apps.shopify.com/daeda-wishlist?utm_source=tikita_github_profile)
 
-**GPT Collection** - HubSpot-focused chatbots, AI Tools folder in [my portfolio site](https://tikitatech.xyz?utm_source=tikita_github_profile)
+**GPT Collection** - HubSpot-focused chatbots, [my portfolio site](https://tikitatech.xyz/hubspot-integrations#gpts?utm_source=tikita_github_profile)
 
 ---
 ### Tech Stack
