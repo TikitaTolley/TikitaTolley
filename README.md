@@ -20,7 +20,6 @@ You can see more of my projects and experiments on [my portfolio site](https://t
 | **Daeda Essentials** | Workflow automation that saves hours | [Marketplace](https://ecosystem.hubspot.com/marketplace/apps/daeda-essentials?utm_source=tikita_github_profile) |
 | **Clean Dial** | Phone validation & formatting | [Home Page](https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile) |
 | **Auto Associations Pro** | Smart object associations beyond defaults | [Home Page](https://www.daeda.tech/projects/auto-association-pro?utm_source=tikita_github_profile) |
-| **Out of Office Workflows** | Automate staff availability workflows | [Marketplace](https://ecosystem.hubspot.com/marketplace/listing/out-of-office?utm_source=tikita_github_profile) |
 
 ---
 ### Side Projects
