@@ -12,12 +12,21 @@ End of 2024, I co-founded [Daeda Technologies](https://daeda.tech?utm_source=tik
 You can see more of my projects and experiments on [my portfolio site](https://tikitatech.xyz?utm_source=tikita_github_profile)
 
 ---
+### [Daeda MCP](https://www.npmjs.com/package/daeda-mcp) - Co-Founder & Lead Dev
+
+An MCP server that syncs your HubSpot CRM to a local encrypted database, enabling AI assistants to query your contacts, companies, and deals instantly.
+
+![npm version](https://img.shields.io/npm/v/daeda-mcp?style=flat-square&logo=npm&color=cb3837) 
+![npm downloads](https://img.shields.io/npm/dt/daeda-mcp?style=flat-square&color=cb3837)
+![npm](https://img.shields.io/npm/l/daeda-mcp?style=flat-square&color=cb3837)
+
+---
 ### HubSpot Apps
 <img src="https://img.shields.io/badge/Essential_blocks_for_advanced_workflows-gray?style=flat-square" />
 
 | App | What it Does | Check it out |
 |-----|-------------|--------|
-| **Clean Dial** | Phone validation & formatting | [Home Page](https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile) |
+| **Clean Dial** | Phone live check & formatting | [Home Page](https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile) |
 | **Auto Associations Pro** | Smart object associations beyond defaults | [Home Page](https://www.daeda.tech/projects/auto-association-pro?utm_source=tikita_github_profile) |
 
 ---
@@ -25,7 +34,11 @@ You can see more of my projects and experiments on [my portfolio site](https://t
 
 **`First Hardware project`** – LEDs that dance to music, [github repo](https://github.com/TikitaTolley/light-dances-to-music)
 
-**Chrome Extension** – Instant timezone conversions, [Convert Time on chrome store](https://chromewebstore.google.com/detail/convert-time/gfgafgnbjambinnibhlhjpmcoiamehej?utm_source=tikita_github_profile)
+**Chrome Extensions** 
+
+- Instant timezone conversions, [Convert Time on chrome store](https://chromewebstore.google.com/detail/convert-time/gfgafgnbjambinnibhlhjpmcoiamehej?utm_source=tikita_github_profile)
+
+- A retro-styled transparent circle around your mouse cursor, [Cursor Aura on chrome store](https://chromewebstore.google.com/detail/hclplnlieojbfkdigpdpofcencmlcbna?utm_source=tikita_github_profile)
 
 **Tech Writing** – Diving into my apps (hardware & simulation posts coming soon), [my substack](https://codeandsolder.substack.com/?utm_source=tikita_github_profile)
 
