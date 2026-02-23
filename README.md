@@ -2,7 +2,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Location-Da_Nang,_Vietnam-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-HubSpot_Apps-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hobby-Electronics_and_Writing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hobby-Electronics_and_Systems-blue?style=for-the-badge" />
 </div>
 
 23yo, dropped out of physics at uni and left the UK to build my own thing.
@@ -27,6 +27,7 @@ An MCP server that syncs your HubSpot CRM to a local encrypted database, enablin
 | App | What it Does | Check it out |
 |-----|-------------|--------|
 | **Clean Dial** | Phone live check & formatting | [Home Page](https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile) |
+| **Dynamic Dropdowns** | Standardized dropdowns that kill data clutter | [Home Page](https://www.daeda.tech/projects/dynamic-dropdowns?utm_source=tikita_github_profile) |
 | **Auto Associations Pro** | Smart object associations beyond defaults | [Home Page](https://www.daeda.tech/projects/auto-association-pro?utm_source=tikita_github_profile) |
 
 ---
