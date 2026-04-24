@@ -27,8 +27,8 @@ An MCP server that syncs your HubSpot CRM to a local encrypted database, enablin
 | App | What it Does | Check it out |
 |-----|-------------|--------|
 | **Clean Dial** | Phone live check & formatting | [Home Page](https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile) |
-| **Dynamic Dropdowns** | Standardized dropdowns that kill data clutter | [Home Page](https://www.daeda.tech/projects/dynamic-dropdowns?utm_source=tikita_github_profile) |
-| **Auto Associations Pro** | Smart object associations beyond defaults | [Home Page](https://www.daeda.tech/projects/auto-association-pro?utm_source=tikita_github_profile) |
+| **Dynamic Dropdowns** | Standardized dropdowns that prevent data clutter | [HubSpot Marketplace](https://ecosystem.hubspot.com/marketplace/listing/dynamic-dropdowns-by-daeda?utm_source=tikita_github_profile) |
+| **All Daeda Apps** | Full list and descriptions | [HubSpot Apps](https://tikitatech.xyz/hubspot-integrations/?utm_source=tikita_github_profile) |
 
 ---
 ### Side Projects
@@ -43,7 +43,7 @@ An MCP server that syncs your HubSpot CRM to a local encrypted database, enablin
 
 **Tech Writing** – Diving into my apps (hardware & simulation posts coming soon), [my substack](https://codeandsolder.substack.com/?utm_source=tikita_github_profile)
 
-**Shopify Wishlist App** – Widgets on store, customers can save their favourites for later, [Daeda Wishlist marketplace](https://apps.shopify.com/daeda-wishlist?utm_source=tikita_github_profile)
+**Shopify Wishlist App** – Widgets on store, customers can save their favourites for later (now sunset) [Full story building Daeda Wishlist](https://tikitatech.xyz/blog/case-study-daeda-wishlist/?utm_source=tikita_github_profile)
 
 **GPT Collection** - HubSpot-focused chatbots, [my portfolio site](https://tikitatech.xyz/hubspot-integrations#gpts?utm_source=tikita_github_profile)
 
