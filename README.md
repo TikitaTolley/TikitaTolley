@@ -44,10 +44,10 @@ The Daeda Technologies homepage and product showcase. Built solo, used Webflow b
 - [Cursor Aura](https://chromewebstore.google.com/detail/hclplnlieojbfkdigpdpofcencmlcbna?utm_source=tikita_github_profile) - 203 installs - retro glowing cursor for screen recordings & demos. [How it hit 780 users →](https://tikitatech.xyz/blog/case-study-cursor-aura/?utm_source=tikita_github_profile)
 
 **Hardware**
-- [Light dances to music](https://github.com/TikitaTolley/light-dances-to-music) - Building LED matrix that reacts to live audio. C++ + FFT + ESP32. More hardware experiments in the pipeline.
+- [Light dances to music](https://github.com/TikitaTolley/light-dances-to-music) - Building LED matrix that reacts to live audio. C++ + FFT + ESP32
 
 **Writing**
-- [Code & Solder](https://codeandsolder.substack.com/?utm_source=tikita_github_profile) - building log; mostly code, occasional hardware diversion
+- [Code & Solder](https://codeandsolder.substack.com/?utm_source=tikita_github_profile) - building log; mostly apps and chrome extensions
 - [Curious Descent](https://curiousdescent.substack.com?utm_source=tikita_github_profile) - essays on life and philosophy
 - [tikitatech.xyz/blog](https://tikitatech.xyz/blog/?utm_source=tikita_github_profile) - long-form case studies and project deep-dives
 
