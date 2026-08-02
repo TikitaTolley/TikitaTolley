@@ -36,7 +36,6 @@ The Daeda Technologies homepage and product showcase. Astro site optimised for S
 
 **Hardware**
 - [LED Blinking](https://www.youtube.com/shorts/5NtJvw59SqI)
-- Smart Plant Hydrator Monitor - my 1st real hardware build. Documenting my progress on [socials](https://www.instagram.com/tikitatech/)
 
 **Writing**
 - [Code & Solder](https://codeandsolder.substack.com/?utm_source=tikita_github_profile) - building log; mostly apps and chrome extensions
