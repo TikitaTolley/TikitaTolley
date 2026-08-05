@@ -6,11 +6,11 @@
 
 `Technical Co-Founder, Full Stack Dev`
 
-Co-founder at Daeda Technologies where I build HubSpot apps. I'm 23, dropped physics at uni to build full-time. 
+Co-founder at Daeda Technologies where I build HubSpot apps. 
 
-In software, now learning hardware.
+I'm 23, dropped physics at uni to build full-time. In software, now learning hardware.
 
-[![Website](https://tikitatech.xyz/icons/badges/website.svg?v=2)](https://tikitatech.xyz?utm_source=tikita_github_profile)
+[![tikitatech.xyz](https://tikitatech.xyz/icons/badges/website.svg?v=3)](https://tikitatech.xyz?utm_source=tikita_github_profile)
 
 <img src="https://cdn.simpleicons.org/typescript/FF7997" width="32" alt="TypeScript">
 <img src="https://cdn.simpleicons.org/react/FF7997" width="32" alt="React">
@@ -38,26 +38,29 @@ In software, now learning hardware.
 
 <table align="center">
 <tr>
-<th>Project</th><th>What it is</th><th align="center">Links</th>
+<th>Project</th><th>What it is</th><th align="center">Code</th><th align="center">Demo</th>
 </tr>
 <tr>
 <td><strong>LED Blinking</strong></td>
 <td>ESP32 driving a WS2812B strip</td>
-<td align="center"><a href="https://github.com/TikitaTolley/led-blink"><img src="https://tikitatech.xyz/icons/badges/github.svg?v=2" alt="GitHub"></a><br><a href="https://www.youtube.com/shorts/5NtJvw59SqI"><img src="https://tikitatech.xyz/icons/badges/youtube.svg?v=2" alt="YouTube"></a></td>
+<td align="center"><a href="https://github.com/TikitaTolley/led-blink"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
+<td align="center"><a href="https://www.youtube.com/shorts/5NtJvw59SqI"><img src="https://tikitatech.xyz/icons/links/youtube.svg?v=1" width="28" alt="YouTube" title="YouTube"></a></td>
 </tr>
 <tr>
 <td><strong>Plant Monitor</strong></td>
 <td>3D printed stake, green when watered. In progress</td>
-<td align="center"><a href="https://github.com/TikitaTolley/smart-plant-hydration-monitor"><img src="https://tikitatech.xyz/icons/badges/github.svg?v=2" alt="GitHub"></a><br><a href="https://wokwi.com/projects/471268493966479361"><img src="https://tikitatech.xyz/icons/badges/wokwi.svg?v=2" alt="Wokwi"></a></td>
+<td align="center"><a href="https://github.com/TikitaTolley/smart-plant-hydration-monitor"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
+<td align="center"><a href="https://wokwi.com/projects/471268493966479361"><img src="https://tikitatech.xyz/icons/links/wokwi.svg?v=1" width="28" alt="Wokwi" title="Wokwi"></a></td>
 </tr>
 <tr>
 <td><strong>LED Keyring</strong></td>
 <td>Mushroom cap LEDs on a coin cell. In progress</td>
-<td align="center"><a href="https://github.com/TikitaTolley/mushroom-led-keyring"><img src="https://tikitatech.xyz/icons/badges/github.svg?v=2" alt="GitHub"></a><br><a href="https://www.tinkercad.com/things/bni5gjmEZWk-mushroom-leds"><img src="https://tikitatech.xyz/icons/badges/tinkercad.svg?v=2" alt="Tinkercad"></a></td>
+<td align="center"><a href="https://github.com/TikitaTolley/mushroom-led-keyring"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
+<td align="center"><a href="https://www.tinkercad.com/things/bni5gjmEZWk-mushroom-leds"><img src="https://tikitatech.xyz/icons/links/tinkercad.svg?v=1" width="28" alt="Tinkercad" title="Tinkercad"></a></td>
 </tr>
 </table>
 
-<p align="center"><a href="https://tikitatech.xyz/hardware-projects/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/builds.svg?v=2" alt="Builds"></a></p>
+<p align="center"><a href="https://tikitatech.xyz/hardware-projects/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/builds.svg?v=3" alt="All builds"></a></p>
 
 <br>
 
@@ -75,25 +78,28 @@ In software, now learning hardware.
 
 <table align="center">
 <tr>
-<th>App</th><th align="center">Installs</th><th>What it Does</th><th align="center">Links</th>
+<th>App</th><th align="center">Installs</th><th>What it Does</th><th align="center">Product</th><th align="center">Read</th>
 </tr>
 <tr>
 <td><strong>Clean Dial</strong></td>
 <td align="center">12</td>
 <td>Live phone check &amp; formatting</td>
-<td align="center"><a href="https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/home.svg?v=2" alt="Home"></a><br><a href="https://tikitatech.xyz/blog/case-study-clean-dial/"><img src="https://tikitatech.xyz/icons/badges/read.svg?v=2" alt="Read"></a></td>
+<td align="center"><a href="https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/daeda.svg?v=2" width="28" alt="Daeda" title="Daeda"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/blog/case-study-clean-dial/"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 <tr>
 <td><strong>Dynamic Dropdowns</strong></td>
 <td align="center">22</td>
 <td>Dropdowns that prevent data clutter</td>
-<td align="center"><a href="https://ecosystem.hubspot.com/marketplace/listing/dynamic-dropdowns-by-daeda?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/listing.svg?v=2" alt="Listing"></a><br><a href="https://tikitatech.xyz/blog/case-study-dynamic-dropdowns/"><img src="https://tikitatech.xyz/icons/badges/read.svg?v=2" alt="Read"></a></td>
+<td align="center"><a href="https://ecosystem.hubspot.com/marketplace/listing/dynamic-dropdowns-by-daeda?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/hubspot.svg?v=1" width="28" alt="HubSpot marketplace" title="HubSpot marketplace"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/blog/case-study-dynamic-dropdowns/"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 <tr>
 <td><strong>All Daeda Apps</strong></td>
 <td align="center">~300</td>
 <td>AI connector &amp; workflow blocks</td>
-<td align="center"><a href="https://daeda.tech/hubspot/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/apps.svg?v=2" alt="Apps"></a><br><a href="https://daeda.tech/blogs/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/read.svg?v=2" alt="Read"></a></td>
+<td align="center"><a href="https://daeda.tech/hubspot/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/daeda.svg?v=2" width="28" alt="Daeda" title="Daeda"></a></td>
+<td align="center"><a href="https://daeda.tech/blogs/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Blog" title="Blog"></a></td>
 </tr>
 </table>
 
@@ -103,7 +109,7 @@ In software, now learning hardware.
 
 The Daeda Technologies homepage and product showcase. Astro site optimised for SEO and LLM search engines, and wired into the company's 2nd brain, a custom built full stack marketing analytics hub.
 
-[![Daeda](https://tikitatech.xyz/icons/badges/daeda.svg?v=2)](https://daeda.tech?utm_source=tikita_github_profile) [![2nd brain](https://tikitatech.xyz/icons/badges/2nd-brain.svg?v=2)](https://tikitatech.xyz/projects/daeda-command-center/?utm_source=tikita_github_profile)
+[![daeda.tech](https://tikitatech.xyz/icons/badges/daeda.svg?v=3)](https://daeda.tech?utm_source=tikita_github_profile) [![2nd brain](https://tikitatech.xyz/icons/badges/2nd-brain.svg?v=3)](https://tikitatech.xyz/projects/daeda-command-center/?utm_source=tikita_github_profile)
 
 <br>
 
@@ -115,19 +121,21 @@ The Daeda Technologies homepage and product showcase. Astro site optimised for S
 
 <table align="center">
 <tr>
-<th>Extension</th><th align="center">Installs</th><th>What it Does</th><th align="center">Links</th>
+<th>Extension</th><th align="center">Installs</th><th>What it Does</th><th align="center">Store</th><th align="center">Read</th>
 </tr>
 <tr>
 <td><strong>Convert Time</strong></td>
 <td align="center">268</td>
 <td>Timezone conversion on hover</td>
-<td align="center"><a href="https://chromewebstore.google.com/detail/convert-time/gfgafgnbjambinnibhlhjpmcoiamehej?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/store.svg?v=2" alt="Store"></a><br><a href="https://tikitatech.xyz/blog/case-study-convert-time/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/read.svg?v=2" alt="Read"></a></td>
+<td align="center"><a href="https://chromewebstore.google.com/detail/convert-time/gfgafgnbjambinnibhlhjpmcoiamehej?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/chrome.svg?v=1" width="28" alt="Chrome Web Store" title="Chrome Web Store"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/blog/case-study-convert-time/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 <tr>
 <td><strong>Cursor Aura</strong></td>
 <td align="center">203</td>
 <td>Retro glowing cursor for demos</td>
-<td align="center"><a href="https://chromewebstore.google.com/detail/hclplnlieojbfkdigpdpofcencmlcbna?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/store.svg?v=2" alt="Store"></a><br><a href="https://tikitatech.xyz/blog/case-study-cursor-aura/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/badges/read.svg?v=2" alt="Read"></a></td>
+<td align="center"><a href="https://chromewebstore.google.com/detail/hclplnlieojbfkdigpdpofcencmlcbna?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/chrome.svg?v=1" width="28" alt="Chrome Web Store" title="Chrome Web Store"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/blog/case-study-cursor-aura/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 </table>
 
@@ -139,12 +147,12 @@ The Daeda Technologies homepage and product showcase. Astro site optimised for S
 
 ### Writing
 
-Curious Descent, essays on life and philosophy, and build logs for project deep-dives.
+Curious Descent, essays on life and philosophy, plus longer build logs and project deep-dives.
 
-[![Descent](https://tikitatech.xyz/icons/badges/descent.svg?v=2)](https://curiousdescent.substack.com?utm_source=tikita_github_profile) [![Logs](https://tikitatech.xyz/icons/badges/logs.svg?v=2)](https://tikitatech.xyz/build-logs/?utm_source=tikita_github_profile)
+[![Curious Descent](https://tikitatech.xyz/icons/badges/descent.svg?v=3)](https://curiousdescent.substack.com?utm_source=tikita_github_profile) [![Build logs](https://tikitatech.xyz/icons/badges/logs.svg?v=3)](https://tikitatech.xyz/build-logs/?utm_source=tikita_github_profile)
 
 Daeda Wishlist, sunset Apr 2026. My first end-to-end Shopify app. The case study covers what I built, what I learned, and why I shut it down.
 
-[![Wishlist](https://tikitatech.xyz/icons/badges/wishlist.svg?v=2)](https://tikitatech.xyz/blog/case-study-daeda-wishlist/?utm_source=tikita_github_profile)
+[![Wishlist case study](https://tikitatech.xyz/icons/badges/wishlist.svg?v=3)](https://tikitatech.xyz/blog/case-study-daeda-wishlist/?utm_source=tikita_github_profile)
 
 </div>
