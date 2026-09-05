@@ -48,15 +48,21 @@ I'm 23, dropped physics at uni to build full-time. In software, now learning har
 </tr>
 <tr>
 <td><strong>Plant Monitor</strong></td>
-<td>3D printed stake, green when watered. In progress</td>
-<td align="center"><a href="https://github.com/TikitaTolley/smart-plant-hydration-monitor"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
+<td>ESP32 soil sensor, 3D-printed RGB lamp, and live plant-monitor PWA</td>
+<td align="center"><a href="https://github.com/TikitaTolley/smart-plant-moisture-monitor"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
 <td align="center"><a href="https://wokwi.com/projects/471268493966479361"><img src="https://tikitatech.xyz/icons/links/wokwi.svg?v=1" width="28" alt="Wokwi" title="Wokwi"></a></td>
 </tr>
 <tr>
 <td><strong>LED Keyring</strong></td>
-<td>Mushroom cap LEDs on a coin cell. In progress</td>
+<td>Soldered mushroom LED keyring powered by two CR2032 coin cells</td>
 <td align="center"><a href="https://github.com/TikitaTolley/mushroom-led-keyring"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
 <td align="center"><a href="https://www.tinkercad.com/things/bni5gjmEZWk-mushroom-leds"><img src="https://tikitatech.xyz/icons/links/tinkercad.svg?v=1" width="28" alt="Tinkercad" title="Tinkercad"></a></td>
+</tr>
+<tr>
+<td><strong>Colour Sensor</strong></td>
+<td>ESP32-S3 fabric colour sensor wand. In progress</td>
+<td align="center"><a href="https://github.com/TikitaTolley/color-sensor"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
+<td align="center">In progress</td>
 </tr>
 </table>
 
@@ -84,15 +90,15 @@ I'm 23, dropped physics at uni to build full-time. In software, now learning har
 <td><strong>Clean Dial</strong></td>
 <td align="center">12</td>
 <td>Live phone check &amp; formatting</td>
-<td align="center"><a href="https://www.daeda.tech/projects/clean-dial?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/daeda.svg?v=2" width="28" alt="Daeda" title="Daeda"></a></td>
-<td align="center"><a href="https://tikitatech.xyz/blog/case-study-clean-dial/"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
+<td align="center"><a href="https://daeda.tech/clean-dial/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/daeda.svg?v=2" width="28" alt="Daeda" title="Daeda"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/build-logs/case-study-clean-dial/"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 <tr>
 <td><strong>Dynamic Dropdowns</strong></td>
 <td align="center">22</td>
 <td>Dropdowns that prevent data clutter</td>
 <td align="center"><a href="https://ecosystem.hubspot.com/marketplace/listing/dynamic-dropdowns-by-daeda?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/hubspot.svg?v=1" width="28" alt="HubSpot marketplace" title="HubSpot marketplace"></a></td>
-<td align="center"><a href="https://tikitatech.xyz/blog/case-study-dynamic-dropdowns/"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/build-logs/case-study-dynamic-dropdowns/"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 <tr>
 <td><strong>All Daeda Apps</strong></td>
@@ -125,17 +131,17 @@ The Daeda Technologies homepage and product showcase. Astro site optimised for S
 </tr>
 <tr>
 <td><strong>Convert Time</strong></td>
-<td align="center">268</td>
+<td align="center">436</td>
 <td>Timezone conversion on hover</td>
 <td align="center"><a href="https://chromewebstore.google.com/detail/convert-time/gfgafgnbjambinnibhlhjpmcoiamehej?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/chrome.svg?v=1" width="28" alt="Chrome Web Store" title="Chrome Web Store"></a></td>
-<td align="center"><a href="https://tikitatech.xyz/blog/case-study-convert-time/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/build-logs/case-study-convert-time/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 <tr>
 <td><strong>Cursor Aura</strong></td>
-<td align="center">203</td>
+<td align="center">390</td>
 <td>Retro glowing cursor for demos</td>
 <td align="center"><a href="https://chromewebstore.google.com/detail/hclplnlieojbfkdigpdpofcencmlcbna?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/chrome.svg?v=1" width="28" alt="Chrome Web Store" title="Chrome Web Store"></a></td>
-<td align="center"><a href="https://tikitatech.xyz/blog/case-study-cursor-aura/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
+<td align="center"><a href="https://tikitatech.xyz/build-logs/case-study-cursor-aura/?utm_source=tikita_github_profile"><img src="https://tikitatech.xyz/icons/links/read.svg?v=1" width="28" alt="Case study" title="Case study"></a></td>
 </tr>
 </table>
 
@@ -153,6 +159,6 @@ Curious Descent, essays on life and philosophy, plus longer build logs and proje
 
 Daeda Wishlist, sunset Apr 2026. My first end-to-end Shopify app. The case study covers what I built, what I learned, and why I shut it down.
 
-[![Wishlist case study](https://tikitatech.xyz/icons/badges/wishlist.svg?v=3)](https://tikitatech.xyz/blog/case-study-daeda-wishlist/?utm_source=tikita_github_profile)
+[![Wishlist case study](https://tikitatech.xyz/icons/badges/wishlist.svg?v=3)](https://tikitatech.xyz/build-logs/case-study-daeda-wishlist/?utm_source=tikita_github_profile)
 
 </div>
