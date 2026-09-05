@@ -50,7 +50,7 @@ I'm 23, dropped physics at uni to build full-time. In software, now learning har
 <td><strong>Plant Monitor</strong></td>
 <td>ESP32 soil sensor, 3D-printed RGB lamp, and live plant-monitor PWA</td>
 <td align="center"><a href="https://github.com/TikitaTolley/smart-plant-moisture-monitor"><img src="https://tikitatech.xyz/icons/links/github.svg?v=1" width="28" alt="GitHub" title="GitHub"></a></td>
-<td align="center"><a href="https://wokwi.com/projects/471268493966479361"><img src="https://tikitatech.xyz/icons/links/wokwi.svg?v=1" width="28" alt="Wokwi" title="Wokwi"></a></td>
+<td align="center"><a href="https://youtube.com/shorts/lq9Cll0Gkk8"><img src="https://tikitatech.xyz/icons/links/youtube.svg?v=1" width="28" alt="Watch Smart Plant Part 2: the PWA" title="Watch Smart Plant Part 2: the PWA"></a></td>
 </tr>
 <tr>
 <td><strong>LED Keyring</strong></td>
