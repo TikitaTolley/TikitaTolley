@@ -6,9 +6,7 @@
 
 `Technical Co-Founder, Full Stack Dev`
 
-Co-founder at Daeda Technologies where I build HubSpot apps.
-
-I'm 23, dropped physics at uni to build full-time. In software, now learning hardware.
+I dropped physics at uni to build full-time. In software, now learning hardware.
 
 [![tikitatech.xyz](https://tikitatech.xyz/icons/badges/website.svg?v=3)](https://tikitatech.xyz?utm_source=tikita_github_profile)
 
